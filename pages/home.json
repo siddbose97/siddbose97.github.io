@@ -1,0 +1,22 @@
+{
+    "hero_section": {
+        "title": "I provide",
+        "title2": "Creative Ideas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed haec quidem liberius ab eo dicuntur et saepius sed quid attinet de rebus tam apertis plura requirere.",
+        "img_logo": "https://lh3.googleusercontent.com/eQ-vh0zu2LvfHM0SYXDaEsu4vrERDF6vdGROzyQoMPkIPZo01VOpFZvRKwSqgmpRg0nm5R_BYnqqDp5inLmJqkwJ-WC-S_3gLOjimpw"
+    },
+    "section1": {
+        "title": "Core Services",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic odit a sit laboriosam voluptatem in, blanditiis.",
+        "show_or_hide": true
+    },
+    "section2": {
+        "title": "Recent Blog Posts",
+        "show_or_hide": true
+    },
+    "section3": {
+        "title": "Contact Us",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, totam ipsa quia hic odit a sit laboriosam voluptatem in, blanditiis.",
+        "show_or_hide": true
+    }
+}
